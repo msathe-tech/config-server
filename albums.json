@@ -1,4 +1,5 @@
-[
+{ 
+    "albums": [
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
         "artist": "Nirvana",
@@ -203,3 +204,4 @@
         "genre": "Blues"
     }
 ]
+}
